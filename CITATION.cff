@@ -1,26 +1,22 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
+title: "Entropic Spacetime Framework"
+version: "0.1.1"
+date-released: 2025-05-28
+
 authors:
   - family-names: Hubbs
-    given-names: Jed L.
-    orcid: https://orcid.org/0000-0002-3923-3392
-    affiliation: "Boston Children's Hospital/ Harvard Medical School"
-title: "An Entropic Spacetime Framework: Unifying Fundamental Physics with Emergent Complexity"
-version: 0.1.0 # This will be your first release version
-date-released: 2025-05-28 # Today's date
+    given-names: Jed
+    orcid: "0000-0002-3923-3392"
+    affiliation: "Boston Children's Hospital / Harvard Medical School"
+    role: ProjectLeader          # free-text; optional
+
+license: MIT
+
 keywords:
   - entropic spacetime
   - quantum gravity
-  - dark matter
-  - dark energy
-  - scalar field theory
-  - resonant coupling
-  - emergent phenomena
-  - consciousness
-  - quantum computing
-  - chirality
   - human-AI collaboration
-  - theoretical physics
-  - cosmology
-  - open science
-license: MIT
+
+repository-code: "https://github.com/jedhubbsBCH/entropic-spacetime-framework"
+
