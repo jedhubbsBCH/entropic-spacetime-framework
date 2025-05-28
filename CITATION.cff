@@ -11,6 +11,9 @@ authors:
     affiliation: "Boston Children's Hospital / Harvard Medical School"
     role: ProjectLeader
 
+identifiers:
+    type: doi
+    value: "10.5281/zenodo.15538196"
 license: MIT
 
 keywords:
