@@ -9,7 +9,7 @@ authors:
     given-names: Jed
     orcid: "0000-0002-3923-3392"
     affiliation: "Boston Children's Hospital / Harvard Medical School"
-    role: ProjectLeader          # free-text; optional
+    role: ProjectLeader
 
 license: MIT
 
