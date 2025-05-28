@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 title: "Entropic Spacetime Framework"
 version: "0.1.1"
+doi: "10.5281/zenodo.1234567"
 date-released: 2025-05-28
 
 authors:
@@ -11,9 +12,6 @@ authors:
     affiliation: "Boston Children's Hospital / Harvard Medical School"
     role: ProjectLeader
 
-identifiers:
-    type: doi
-    value: 10.5281/zenodo.15538196
 license: MIT
 
 keywords:
@@ -22,4 +20,5 @@ keywords:
   - human-AI collaboration
 
 repository-code: "https://github.com/jedhubbsBCH/entropic-spacetime-framework"
+
 
