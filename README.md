@@ -1,6 +1,30 @@
-Summary
-The universe remains an enigma, governed by two powerful yet incompatible theories: Einstein's General Relativity, describing the grand cosmic ballet, and Quantum Mechanics, dictating the bizarre rules of the subatomic world. This fundamental disconnect, alongside persistent mysteries like dark matter and dark energy, signals a missing piece in our understanding. What if the very fabric of spacetime, and even the arrow of time itself, emerged from something more fundamental: entropy?
-A new "entropic spacetime framework" proposes just that. It introduces two fundamental scalar fields: a temporal entropic field (ST) that inherently drives the unidirectional flow of time, and a spatial entropic field (SS) that forms an intrinsically vibrating medium, giving rise to the wave-particle duality of quantum entities. Crucially, these fields interact with matter and gravity through a "resonant coupling" mechanism, meaning their influence is not universal but becomes pronounced only under specific conditions.
-This resonant interplay offers a fresh, intuitive lens through which to view the cosmos. It suggests a dynamic origin for dark energy, potentially resolving the cosmological constant problem, and provides an alternative explanation for galaxy rotation curves without needing conventional dark matter. Beyond cosmology, this framework speculatively extends its reach to the origins of chirality, the emergence of life, and even the nature of consciousness and quantum computing, hinting at a unified "resonance code" underlying reality. While still in its early stages, this ambitious approach invites us to reconsider the fundamental building blocks of our universe, offering a potentially simpler and more cohesive picture.
+v2.0 Abstract
 
-Also available at L. Hubbs,  J. An Entropic Spacetime Framework: Unifying Fundamental Physics with Emergent Complexity. Preprints 2025, 2025052289. https://doi.org/10.20944/preprints202505.2289.v1
+We propose a phenomenological framework in which spacetime carries two scalar
+fields of entropic character that modify gravitational dynamics across cosmic scales.
+ST (temporal entropy) is postulated to increase monotonically throughout the uni-
+verse, providing a dynamical mechanism for time’s arrow through an explicitly time-
+asymmetric potential. SS (spatial entropy) serves as an order parameter for the
+quantum-to-classical transition of spacetime itself: taking small values in regions
+where quantum coherence persists and large values where decoherence has created
+classical behavior.
+Within the DHOST (Degenerate Higher-Order Scalar-Tensor) formalism, we in-
+troduce three phenomenological functions: h (SS ) modifies the gravitational coupling
+in regions of quantum spacetime while recovering Einstein gravity in classical re-
+gions; V (ST , SS ) contains a linear term α ST that breaks time-reversal symmetry;
+and f (SS ) modulates matter-gravity coupling based on the local quantum state of
+spacetime.
+This framework offers a unified phenomenological description of several cosmo-
+logical puzzles: dark matter effects emerge from regions where partial decoherence
+creates intermediate SS values, dark energy arises from the time-asymmetric po-
+tential V , and the Hubble tension could result from different ST values probed by
+early versus late universe measurements. The framework requires several conjectures
+about how quantum coherence patterns persist across cosmic scales—mechanisms
+that would need justification from a future theory of quantum gravity.
+We identify observable predictions including: (i) environmental dependence of
+galaxy dynamics based on local SS values, (ii) correlations between regions of modi-
+fied gravity and time flow anomalies, (iii) deviations in black hole photon ring radii,
+and (iv) quantum interference experiments coupling to gravitational fields. While
+the mathematical consistency of this two-field DHOST theory requires further anal-
+ysis, the framework provides a concrete phenomenological target for testing whether
+quantum properties of spacetime itself might explain cosmic structure.
