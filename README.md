@@ -28,3 +28,22 @@ and (iv) quantum interference experiments coupling to gravitational fields. Whil
 the mathematical consistency of this two-field DHOST theory requires further anal-
 ysis, the framework provides a concrete phenomenological target for testing whether
 quantum properties of spacetime itself might explain cosmic structure.
+
+v2.1 Abstract
+We propose a framework for the emergence of physical reality from a single
+irreducible principle: the binary singularity, a primordial act of distinction giving
+rise to a propagating duality. From this minimal substrate, we construct the
+mathematical and physical structure of the universe, including Peano arithmetic,
+real analysis, and differential geometry. The core of the framework is an entropic
+resonance, Sresonance, a coupling between spatial and temporal entropy gradients hypothesized
+to seed the differentiation of geometry and fields. We define two scalar
+fields—SS(x) representing spatial organization and ST (x) representing directional
+entropy flow—whose interaction gives rise to a generalized entropic action. We
+argue that the variation of this action has the potential to reproduce key astrophysical
+and cosmological phenomena without invoking dark matter or inflation.
+As a proof-of-concept, our preliminary simulations show qualitative agreement with
+the flat rotation curves of galaxies and the primary features of the anisotropic polarization
+spectra of the cosmic microwave background (CMB). The framework is
+presented as a potential route toward a parsimonious explanation for gravitation,
+field dynamics, and the arrow of time as emergent consequences of information flow.
+
